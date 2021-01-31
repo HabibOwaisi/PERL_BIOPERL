@@ -1,0 +1,10 @@
+mkdir "SP18";
+print "Directory has created\n";
+$dir= "B18";
+mkdir ($dir);
+chdir ("SP18");
+open (data, ">abc.txt");
+open (d2, ">123.txt");
+print d2 "The file is created with this written data";
+mkdir "B18";
+rmdir "B18"; 

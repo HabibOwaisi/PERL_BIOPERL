@@ -1,0 +1,2 @@
+Hello! how are you?========================File handling is the most important part in any programming language. A filehandle is an internal Perl structure that associates with a file name.Perl File handling is important as it is helpful in accessing file such as text 
+files, log files or configuration files. Perl filehandles are capable of creating, reading, opening and closing a file.

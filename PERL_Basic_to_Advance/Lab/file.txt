@@ -1,0 +1,8 @@
+ABCDE This is my first file handling in perl
+This is my first file handling in perl
+How are you??
+======================================
+**************************************
+======================================
+
+
